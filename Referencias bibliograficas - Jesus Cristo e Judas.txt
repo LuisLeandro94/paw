@@ -1,0 +1,33 @@
+https://digital.br.synnex.com/virtualizacao-de-servidores-como-funciona-e-quais-as-vantagens
+23/05/2021 -> Synnex Westcon-Comstor, in Virtualização de Servidores
+
+https://vertigo.com.br/5-vantagens-de-usar-software-open-source/
+23/05/2021 -> Vertigo, in Vantagens de Open Source
+
+https://fourcornerstone.com/oracle-vm-virtualbox-benefits-features/
+23/05/2021 -> FourCornerstone, in ORACLE VM VIRTUALBOX BENEFITS AND FEATURES SEP 27, 2013
+
+https://techgenix.com/virtualbox-virtualization-management/
+
+23/05/2021 -> Benjamin Roussey, in HERE’S WHY VIRTUALBOX IS A FANTASTIC VIRTUALIZATION MANAGEMENT TOOL JANUARY 4, 2017
+
+https://www.controle.net/faq/o-que-e-snapshot
+23/05/2021 -> Controle Net, in Snapshot: Um retrato instantâneo de aplicações e telas
+
+https://www.sciencedirect.com/topics/computer-science/server-manager
+23/05/2021 -> Aaron Tiensivu, in Securing Windows Server 2008
+
+https://www.gnu.org/software/grub/
+23/05/2021 -> Daniel Kiper, in GNU GRUB
+
+https://www.lepide.com/blog/what-is-active-directory-and-how-does-it-work/
+23/05/2021 -> Lepide Home, in What Is Active Directory and How Does It Work?
+
+https://www.hostpapa.ca/blog/web-hosting/dns-what-it-is-and-why-you-need-it/
+24/05/2021 -> María Bustillos, in DNS: What It Is and Why You Need It May 25, 2021
+
+https://www.efficientip.com/what-is-dhcp-and-why-is-it-important/
+28/05/2021 -> efficientIP, in Dynamic Host Configuration Protocol
+
+https://www.thousandeyes.com/learning/techtorials/ipv4-vs-ipv6
+28/05/2021 -> ThousandEyes, in IPV4 vs. IPV6
